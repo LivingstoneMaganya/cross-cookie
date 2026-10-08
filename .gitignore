@@ -1,0 +1,15 @@
+# Dependencies
+node_modules/
+
+# Compiled build outputs
+dist/
+
+# OS and IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs and environment
+*.log
+.env*
